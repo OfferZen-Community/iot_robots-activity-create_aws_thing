@@ -65,12 +65,12 @@ c) The <b>root CA</b>. For this you have to right click on "Download", click "sa
 
 <img src="images/attach_policy_1.png">
 
-2. We've created a policy called <b>maker-policy</b> that has all the required permissions for this exercize. Search for it, select it, and click on "Register Thing".
+2. We've created a policy called <b>maker-policy</b> that has all the required permissions for this exercise. Search for it, select it, and click on "Register Thing".
 
 <img src="images/attach_policy_2.png">
 
 
-That's it! You've created a thing, created a certifiate and attached it to your thing, and attached a policy to your thing.
+That's it! You've created a thing, created a certificate and attached it to your thing, and attached a policy to your thing.
 
 If you're interested in how the policy has been set up, you can click on "Secure", then "Policies", and search for maker-policy to have a look at the policy document.
 
