@@ -78,7 +78,7 @@ If you're interested in how the policy has been set up, you can click on "Secure
 
 ### Stuck?
 
-_If you need help, contact [@nuclearnic](https://offerzen-make.slack.com/messages/DA5HF1659) on Slack._
+_If you need help, ask in Make Slack in your team channel, and tag [@dan](https://offerzen-make.slack.com/messages/D9M8BBRNW)._
 
 
 
