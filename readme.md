@@ -50,7 +50,7 @@ After logging in, <b>ensure that you are in the Ohio region</b>. There's a regio
 2. Next we'll download all the files required for connecting to AWS-IoT. There are <b>three</b> files you need:
 a) The <b>certificate</b> (cert.pem file).
 b) The <b>private key</b> (private.key file).
-c) The <b>root CA</b>. For this you have to right click on "Download", click "save link as", and then save it as in the screenshot below.
+c) The <b>root CA</b>. Note that the UI has recently changed so this screensht is outdated. You will need to follow the "Download" link and on the next page download the `VeriSign Class 3 Public Primary G5 root CA certificate`
 
 <img src="images/create_certificate_3.png">
 
