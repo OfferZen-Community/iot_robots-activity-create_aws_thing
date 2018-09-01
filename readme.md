@@ -11,7 +11,8 @@ In performing this activity, you'll __create a thing__ on AWS IoT Cloud, __creat
 
 ### Step 1: Sign into AWS IoT Cloud with your maker account.
 
-Sign in page: https://offerzen-make.signin.aws.amazon.com/console Credentials: These have been mailed to you.
+*Sign in page:* https://offerzen-make.signin.aws.amazon.com/console  
+*Credentials:* These have been mailed to you.
 
 After logging in, <b>ensure that you are in the Ohio region</b>. There's a region-select dropdown next to your name in the top right of the page.
 
