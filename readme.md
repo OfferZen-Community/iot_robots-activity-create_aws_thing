@@ -43,14 +43,14 @@ After logging in, <b>ensure that you are in the Ohio region</b>. There's a regio
 
 ### Step 4: Create a Certificate and attach it to your Thing
 
-1. Click on "Create certificate".
+1. Next to "One-click certificate creation", click on "Create certificate".
 
 <img src="images/create_certificate_1.png">
 
 2. Next we'll download all the files required for connecting to AWS-IoT. There are <b>three</b> files you need:
 a) The <b>certificate</b> (cert.pem file).
 b) The <b>private key</b> (private.key file).
-c) The <b>root CA</b>. *Note that the UI has recently changed so this screenshot is outdated.* You will need to follow the "Download" link, and on the next page download the `VeriSign Class 3 Public Primary G5 root CA certificate`
+c) The <b>root CA</b>. Follow the "download" link, and on the next page download the `VeriSign Class 3 Public Primary G5 root CA certificate` (right click -> "download linked file")
 
 <img src="images/create_certificate_3.png">
 
