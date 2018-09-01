@@ -48,15 +48,14 @@ After logging in, <b>ensure that you are in the Ohio region</b>. There's a regio
 <img src="images/create_certificate_1.png">
 
 2. Next we'll download all the files required for connecting to AWS-IoT. There are <b>three</b> files you need:
-a) The <b>certificate</b> (cert.pem file).
-b) The <b>private key</b> (private.key file).
-c) The <b>root CA</b>. Follow the "download" link, and on the next page download the `VeriSign Class 3 Public Primary G5 root CA certificate` (right click -> "download linked file")
 
-<img src="images/create_certificate_3.png">
-
-3. Activate your certificate by clicking on "Activate". Don't forget this step! You can now continue by clicking on "Attach a policy".
+- The <b>certificate</b> (cert.pem file).
+- The <b>private key</b> (private.key file).
+- The <b>root CA</b>. Follow the "download" link, and on the next page download the `VeriSign Class 3 Public Primary G5 root CA certificate` (right click -> "download linked file")
 
 <img src="images/create_certificate_2.png">
+
+3. Activate your certificate by clicking on "Activate". Don't forget this step! You can now continue by clicking on "Attach a policy".
 
 
 ### Step 5: Attach a Policy to your Certificate
